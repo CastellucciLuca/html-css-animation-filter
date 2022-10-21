@@ -155,19 +155,19 @@
         right: 20%;
     }
     30% {
-        right: calc(100% - 35px);
+        right: calc(85% - 20px);
         bottom: -10px;
     }
-    50% {
-        right: calc(100% - 35px);
-        bottom: -10px;
+    45% {
+        right: calc(85% - 20px);
+        bottom: 100%;
     }
     75% {
         right: 0;
         bottom: 100%;
     }
     90% {
-        right: -15x;
+        right: -15px;
         bottom: -10px;
     }
     100%{
